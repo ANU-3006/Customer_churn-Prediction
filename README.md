@@ -14,9 +14,9 @@ Deploys the model using Flask
 Provides real-time churn prediction via web interface
 
 📂 Dataset
-
 File: Churn_Modelling.csv
 Total Records: 10,000
+
 Target Variable: Exited
 1 → Customer Will Churn
 0 → Customer Will Not Churn
