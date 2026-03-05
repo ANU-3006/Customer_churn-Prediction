@@ -33,8 +33,11 @@ Inactive members are more likely to churn.
 Older customers have higher churn probability.
 
 ⚙️ Machine Learning Models Used
+
 Logistic Regression
+
 Random Forest
+
 XGBoost
 
 🏆 Best Model: Random Forest
@@ -50,6 +53,7 @@ Final Test Results: Accuracy → 84%
 Since churn class was only ~20%, SMOTE was used to balance the training dataset
 
 📊 Model Evaluation
+
 Confusion Matrix
 
 ROC Curve
