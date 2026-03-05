@@ -55,7 +55,7 @@ Final Test Results: Accuracy → 84%
                     ROC-AUC → 0.85
                     
                     Recall (Churn Class) → 0.59
-
+                    
 ⚖️ Handling Imbalanced Data
 Since churn class was only ~20%, SMOTE was used to balance the training dataset
 
