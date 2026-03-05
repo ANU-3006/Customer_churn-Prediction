@@ -39,8 +39,11 @@ XGBoost
 
 🏆 Best Model: Random Forest
 Cross Validation ROC-AUC: Random Forest → 0.963
+
 Final Test Results: Accuracy → 84%
+
                     ROC-AUC → 0.85
+                    
                     Recall (Churn Class) → 0.59
 
 ⚖️ Handling Imbalanced Data
