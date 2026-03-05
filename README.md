@@ -18,7 +18,7 @@ File: Churn_Modelling.csv
 Total Records: 10,000
 
 Target Variable: Exited
-1 → Customer Will Churn
+1 → Customer Will Churn ,
 0 → Customer Will Not Churn
 
 🧠Features Used
