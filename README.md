@@ -51,8 +51,11 @@ Since churn class was only ~20%, SMOTE was used to balance the training dataset
 
 📊 Model Evaluation
 Confusion Matrix
+
 ROC Curve
+
 Precision-Recall Curve
+
 Feature Importance Plot
 
 🛠️ Tech Stack: Python, Pandas, NumPy, Scikit-Learn (Random Forest), XGBoost, SMOTE (Imbalanced-Learn), Matplotlib, Seaborn, Flask, Pickle.
